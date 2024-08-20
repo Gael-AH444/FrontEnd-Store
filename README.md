@@ -6,9 +6,9 @@ Frontend Store es un sitio web el cual esta pensado para vender camisetas con lo
 
 ## Screenshots
 
-![App Screenshot](Screenshots/IndexScreen.png)
+![App Screenshot](Screenshots/IndexScreen.PNG)
 
-![App Screenshot](Screenshots/Nosotroscreen.png)
+![App Screenshot](Screenshots/Nosotroscreen.PNG)
 
 ![App Screenshot](Screenshots/ProductoScreen.png)
 
